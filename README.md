@@ -1,3 +1,26 @@
+## event_camera_renderer (jazzy) - 1.3.4-2
+
+The packages in the `event_camera_renderer` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy event_camera_renderer --override-release-repository-push-url git@github.com:revyos-ros/event_camera_renderer-release.git` on `Mon, 23 Jun 2025 04:16:12 -0000`
+
+The `event_camera_renderer` package was released.
+
+Version of package(s) in repository `event_camera_renderer`:
+
+- upstream repository: https://github.com/ros-event-camera/event_camera_renderer.git
+- release repository: https://github.com/revyos-ros/event_camera_renderer-release.git
+- rosdistro version: `2.0.0-1`
+- old version: `1.3.4-1`
+- new version: `1.3.4-2`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## event_camera_renderer (humble) - 1.1.3-2
 
 The packages in the `event_camera_renderer` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r humble event_camera_renderer --override-release-repository-push-url git@github.com:revyos-ros/event_camera_renderer-release.git` on `Mon, 04 Nov 2024 07:43:08 -0000`
